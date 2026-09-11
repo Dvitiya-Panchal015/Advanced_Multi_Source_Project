@@ -1,0 +1,581 @@
+,Unnamed: 0,Title,Price,Rating,In_stock,Category
+0,0,A Light in the Attic,51.77,3,In stock,Poetry
+1,1,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+2,2,Soumission,50.1,1,In stock,Fiction
+3,3,Sharp Objects,47.82,4,In stock,Mystery
+4,4,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+5,5,The Requiem Red,22.65,1,In stock,Young Adult
+6,6,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+7,7,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+8,8,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+9,9,The Black Maria,52.15,1,In stock,Poetry
+10,10,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+11,11,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+12,12,Set Me Free,17.46,5,In stock,Young Adult
+13,13,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+14,14,Rip it Up and Start Again,35.02,5,In stock,Music
+15,15,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+16,16,Olio,23.88,1,In stock,Poetry
+17,17,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+18,18,Libertarianism for Beginners,51.33,2,In stock,Politics
+19,19,It's Only the Himalayas,45.17,2,In stock,Travel
+20,20,A Light in the Attic,51.77,3,In stock,Poetry
+21,21,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+22,22,Soumission,50.1,1,In stock,Fiction
+23,23,Sharp Objects,47.82,4,In stock,Mystery
+24,24,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+25,25,The Requiem Red,22.65,1,In stock,Young Adult
+26,26,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+27,27,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+28,28,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+29,29,The Black Maria,52.15,1,In stock,Poetry
+30,30,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+31,31,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+32,32,Set Me Free,17.46,5,In stock,Young Adult
+33,33,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+34,34,Rip it Up and Start Again,35.02,5,In stock,Music
+35,35,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+36,36,Olio,23.88,1,In stock,Poetry
+37,37,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+38,38,Libertarianism for Beginners,51.33,2,In stock,Politics
+39,39,It's Only the Himalayas,45.17,2,In stock,Travel
+40,40,A Light in the Attic,51.77,3,In stock,Poetry
+41,41,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+42,42,Soumission,50.1,1,In stock,Fiction
+43,43,Sharp Objects,47.82,4,In stock,Mystery
+44,44,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+45,45,The Requiem Red,22.65,1,In stock,Young Adult
+46,46,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+47,47,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+48,48,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+49,49,The Black Maria,52.15,1,In stock,Poetry
+50,50,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+51,51,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+52,52,Set Me Free,17.46,5,In stock,Young Adult
+53,53,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+54,54,Rip it Up and Start Again,35.02,5,In stock,Music
+55,55,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+56,56,Olio,23.88,1,In stock,Poetry
+57,57,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+58,58,Libertarianism for Beginners,51.33,2,In stock,Politics
+59,59,It's Only the Himalayas,45.17,2,In stock,Travel
+60,60,A Light in the Attic,51.77,3,In stock,Poetry
+61,61,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+62,62,Soumission,50.1,1,In stock,Fiction
+63,63,Sharp Objects,47.82,4,In stock,Mystery
+64,64,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+65,65,The Requiem Red,22.65,1,In stock,Young Adult
+66,66,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+67,67,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+68,68,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+69,69,The Black Maria,52.15,1,In stock,Poetry
+70,70,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+71,71,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+72,72,Set Me Free,17.46,5,In stock,Young Adult
+73,73,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+74,74,Rip it Up and Start Again,35.02,5,In stock,Music
+75,75,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+76,76,Olio,23.88,1,In stock,Poetry
+77,77,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+78,78,Libertarianism for Beginners,51.33,2,In stock,Politics
+79,79,It's Only the Himalayas,45.17,2,In stock,Travel
+80,80,A Light in the Attic,51.77,3,In stock,Poetry
+81,81,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+82,82,Soumission,50.1,1,In stock,Fiction
+83,83,Sharp Objects,47.82,4,In stock,Mystery
+84,84,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+85,85,The Requiem Red,22.65,1,In stock,Young Adult
+86,86,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+87,87,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+88,88,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+89,89,The Black Maria,52.15,1,In stock,Poetry
+90,90,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+91,91,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+92,92,Set Me Free,17.46,5,In stock,Young Adult
+93,93,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+94,94,Rip it Up and Start Again,35.02,5,In stock,Music
+95,95,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+96,96,Olio,23.88,1,In stock,Poetry
+97,97,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+98,98,Libertarianism for Beginners,51.33,2,In stock,Politics
+99,99,It's Only the Himalayas,45.17,2,In stock,Travel
+100,100,A Light in the Attic,51.77,3,In stock,Poetry
+101,101,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+102,102,Soumission,50.1,1,In stock,Fiction
+103,103,Sharp Objects,47.82,4,In stock,Mystery
+104,104,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+105,105,The Requiem Red,22.65,1,In stock,Young Adult
+106,106,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+107,107,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+108,108,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+109,109,The Black Maria,52.15,1,In stock,Poetry
+110,110,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+111,111,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+112,112,Set Me Free,17.46,5,In stock,Young Adult
+113,113,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+114,114,Rip it Up and Start Again,35.02,5,In stock,Music
+115,115,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+116,116,Olio,23.88,1,In stock,Poetry
+117,117,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+118,118,Libertarianism for Beginners,51.33,2,In stock,Politics
+119,119,It's Only the Himalayas,45.17,2,In stock,Travel
+120,120,A Light in the Attic,51.77,3,In stock,Poetry
+121,121,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+122,122,Soumission,50.1,1,In stock,Fiction
+123,123,Sharp Objects,47.82,4,In stock,Mystery
+124,124,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+125,125,The Requiem Red,22.65,1,In stock,Young Adult
+126,126,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+127,127,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+128,128,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+129,129,The Black Maria,52.15,1,In stock,Poetry
+130,130,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+131,131,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+132,132,Set Me Free,17.46,5,In stock,Young Adult
+133,133,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+134,134,Rip it Up and Start Again,35.02,5,In stock,Music
+135,135,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+136,136,Olio,23.88,1,In stock,Poetry
+137,137,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+138,138,Libertarianism for Beginners,51.33,2,In stock,Politics
+139,139,It's Only the Himalayas,45.17,2,In stock,Travel
+140,140,A Light in the Attic,51.77,3,In stock,Poetry
+141,141,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+142,142,Soumission,50.1,1,In stock,Fiction
+143,143,Sharp Objects,47.82,4,In stock,Mystery
+144,144,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+145,145,The Requiem Red,22.65,1,In stock,Young Adult
+146,146,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+147,147,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+148,148,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+149,149,The Black Maria,52.15,1,In stock,Poetry
+150,150,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+151,151,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+152,152,Set Me Free,17.46,5,In stock,Young Adult
+153,153,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+154,154,Rip it Up and Start Again,35.02,5,In stock,Music
+155,155,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+156,156,Olio,23.88,1,In stock,Poetry
+157,157,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+158,158,Libertarianism for Beginners,51.33,2,In stock,Politics
+159,159,It's Only the Himalayas,45.17,2,In stock,Travel
+160,160,A Light in the Attic,51.77,3,In stock,Poetry
+161,161,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+162,162,Soumission,50.1,1,In stock,Fiction
+163,163,Sharp Objects,47.82,4,In stock,Mystery
+164,164,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+165,165,The Requiem Red,22.65,1,In stock,Young Adult
+166,166,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+167,167,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+168,168,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+169,169,The Black Maria,52.15,1,In stock,Poetry
+170,170,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+171,171,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+172,172,Set Me Free,17.46,5,In stock,Young Adult
+173,173,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+174,174,Rip it Up and Start Again,35.02,5,In stock,Music
+175,175,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+176,176,Olio,23.88,1,In stock,Poetry
+177,177,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+178,178,Libertarianism for Beginners,51.33,2,In stock,Politics
+179,179,It's Only the Himalayas,45.17,2,In stock,Travel
+180,180,A Light in the Attic,51.77,3,In stock,Poetry
+181,181,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+182,182,Soumission,50.1,1,In stock,Fiction
+183,183,Sharp Objects,47.82,4,In stock,Mystery
+184,184,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+185,185,The Requiem Red,22.65,1,In stock,Young Adult
+186,186,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+187,187,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+188,188,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+189,189,The Black Maria,52.15,1,In stock,Poetry
+190,190,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+191,191,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+192,192,Set Me Free,17.46,5,In stock,Young Adult
+193,193,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+194,194,Rip it Up and Start Again,35.02,5,In stock,Music
+195,195,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+196,196,Olio,23.88,1,In stock,Poetry
+197,197,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+198,198,Libertarianism for Beginners,51.33,2,In stock,Politics
+199,199,It's Only the Himalayas,45.17,2,In stock,Travel
+200,200,A Light in the Attic,51.77,3,In stock,Poetry
+201,201,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+202,202,Soumission,50.1,1,In stock,Fiction
+203,203,Sharp Objects,47.82,4,In stock,Mystery
+204,204,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+205,205,The Requiem Red,22.65,1,In stock,Young Adult
+206,206,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+207,207,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+208,208,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+209,209,The Black Maria,52.15,1,In stock,Poetry
+210,210,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+211,211,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+212,212,Set Me Free,17.46,5,In stock,Young Adult
+213,213,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+214,214,Rip it Up and Start Again,35.02,5,In stock,Music
+215,215,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+216,216,Olio,23.88,1,In stock,Poetry
+217,217,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+218,218,Libertarianism for Beginners,51.33,2,In stock,Politics
+219,219,It's Only the Himalayas,45.17,2,In stock,Travel
+220,220,A Light in the Attic,51.77,3,In stock,Poetry
+221,221,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+222,222,Soumission,50.1,1,In stock,Fiction
+223,223,Sharp Objects,47.82,4,In stock,Mystery
+224,224,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+225,225,The Requiem Red,22.65,1,In stock,Young Adult
+226,226,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+227,227,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+228,228,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+229,229,The Black Maria,52.15,1,In stock,Poetry
+230,230,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+231,231,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+232,232,Set Me Free,17.46,5,In stock,Young Adult
+233,233,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+234,234,Rip it Up and Start Again,35.02,5,In stock,Music
+235,235,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+236,236,Olio,23.88,1,In stock,Poetry
+237,237,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+238,238,Libertarianism for Beginners,51.33,2,In stock,Politics
+239,239,It's Only the Himalayas,45.17,2,In stock,Travel
+240,240,A Light in the Attic,51.77,3,In stock,Poetry
+241,241,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+242,242,Soumission,50.1,1,In stock,Fiction
+243,243,Sharp Objects,47.82,4,In stock,Mystery
+244,244,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+245,245,The Requiem Red,22.65,1,In stock,Young Adult
+246,246,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+247,247,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+248,248,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+249,249,The Black Maria,52.15,1,In stock,Poetry
+250,250,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+251,251,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+252,252,Set Me Free,17.46,5,In stock,Young Adult
+253,253,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+254,254,Rip it Up and Start Again,35.02,5,In stock,Music
+255,255,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+256,256,Olio,23.88,1,In stock,Poetry
+257,257,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+258,258,Libertarianism for Beginners,51.33,2,In stock,Politics
+259,259,It's Only the Himalayas,45.17,2,In stock,Travel
+260,260,A Light in the Attic,51.77,3,In stock,Poetry
+261,261,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+262,262,Soumission,50.1,1,In stock,Fiction
+263,263,Sharp Objects,47.82,4,In stock,Mystery
+264,264,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+265,265,The Requiem Red,22.65,1,In stock,Young Adult
+266,266,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+267,267,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+268,268,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+269,269,The Black Maria,52.15,1,In stock,Poetry
+270,270,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+271,271,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+272,272,Set Me Free,17.46,5,In stock,Young Adult
+273,273,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+274,274,Rip it Up and Start Again,35.02,5,In stock,Music
+275,275,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+276,276,Olio,23.88,1,In stock,Poetry
+277,277,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+278,278,Libertarianism for Beginners,51.33,2,In stock,Politics
+279,279,It's Only the Himalayas,45.17,2,In stock,Travel
+280,280,A Light in the Attic,51.77,3,In stock,Poetry
+281,281,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+282,282,Soumission,50.1,1,In stock,Fiction
+283,283,Sharp Objects,47.82,4,In stock,Mystery
+284,284,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+285,285,The Requiem Red,22.65,1,In stock,Young Adult
+286,286,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+287,287,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+288,288,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+289,289,The Black Maria,52.15,1,In stock,Poetry
+290,290,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+291,291,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+292,292,Set Me Free,17.46,5,In stock,Young Adult
+293,293,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+294,294,Rip it Up and Start Again,35.02,5,In stock,Music
+295,295,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+296,296,Olio,23.88,1,In stock,Poetry
+297,297,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+298,298,Libertarianism for Beginners,51.33,2,In stock,Politics
+299,299,It's Only the Himalayas,45.17,2,In stock,Travel
+300,300,A Light in the Attic,51.77,3,In stock,Poetry
+301,301,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+302,302,Soumission,50.1,1,In stock,Fiction
+303,303,Sharp Objects,47.82,4,In stock,Mystery
+304,304,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+305,305,The Requiem Red,22.65,1,In stock,Young Adult
+306,306,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+307,307,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+308,308,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+309,309,The Black Maria,52.15,1,In stock,Poetry
+310,310,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+311,311,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+312,312,Set Me Free,17.46,5,In stock,Young Adult
+313,313,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+314,314,Rip it Up and Start Again,35.02,5,In stock,Music
+315,315,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+316,316,Olio,23.88,1,In stock,Poetry
+317,317,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+318,318,Libertarianism for Beginners,51.33,2,In stock,Politics
+319,319,It's Only the Himalayas,45.17,2,In stock,Travel
+320,320,A Light in the Attic,51.77,3,In stock,Poetry
+321,321,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+322,322,Soumission,50.1,1,In stock,Fiction
+323,323,Sharp Objects,47.82,4,In stock,Mystery
+324,324,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+325,325,The Requiem Red,22.65,1,In stock,Young Adult
+326,326,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+327,327,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+328,328,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+329,329,The Black Maria,52.15,1,In stock,Poetry
+330,330,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+331,331,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+332,332,Set Me Free,17.46,5,In stock,Young Adult
+333,333,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+334,334,Rip it Up and Start Again,35.02,5,In stock,Music
+335,335,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+336,336,Olio,23.88,1,In stock,Poetry
+337,337,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+338,338,Libertarianism for Beginners,51.33,2,In stock,Politics
+339,339,It's Only the Himalayas,45.17,2,In stock,Travel
+340,340,A Light in the Attic,51.77,3,In stock,Poetry
+341,341,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+342,342,Soumission,50.1,1,In stock,Fiction
+343,343,Sharp Objects,47.82,4,In stock,Mystery
+344,344,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+345,345,The Requiem Red,22.65,1,In stock,Young Adult
+346,346,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+347,347,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+348,348,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+349,349,The Black Maria,52.15,1,In stock,Poetry
+350,350,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+351,351,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+352,352,Set Me Free,17.46,5,In stock,Young Adult
+353,353,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+354,354,Rip it Up and Start Again,35.02,5,In stock,Music
+355,355,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+356,356,Olio,23.88,1,In stock,Poetry
+357,357,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+358,358,Libertarianism for Beginners,51.33,2,In stock,Politics
+359,359,It's Only the Himalayas,45.17,2,In stock,Travel
+360,360,A Light in the Attic,51.77,3,In stock,Poetry
+361,361,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+362,362,Soumission,50.1,1,In stock,Fiction
+363,363,Sharp Objects,47.82,4,In stock,Mystery
+364,364,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+365,365,The Requiem Red,22.65,1,In stock,Young Adult
+366,366,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+367,367,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+368,368,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+369,369,The Black Maria,52.15,1,In stock,Poetry
+370,370,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+371,371,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+372,372,Set Me Free,17.46,5,In stock,Young Adult
+373,373,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+374,374,Rip it Up and Start Again,35.02,5,In stock,Music
+375,375,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+376,376,Olio,23.88,1,In stock,Poetry
+377,377,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+378,378,Libertarianism for Beginners,51.33,2,In stock,Politics
+379,379,It's Only the Himalayas,45.17,2,In stock,Travel
+380,380,A Light in the Attic,51.77,3,In stock,Poetry
+381,381,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+382,382,Soumission,50.1,1,In stock,Fiction
+383,383,Sharp Objects,47.82,4,In stock,Mystery
+384,384,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+385,385,The Requiem Red,22.65,1,In stock,Young Adult
+386,386,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+387,387,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+388,388,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+389,389,The Black Maria,52.15,1,In stock,Poetry
+390,390,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+391,391,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+392,392,Set Me Free,17.46,5,In stock,Young Adult
+393,393,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+394,394,Rip it Up and Start Again,35.02,5,In stock,Music
+395,395,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+396,396,Olio,23.88,1,In stock,Poetry
+397,397,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+398,398,Libertarianism for Beginners,51.33,2,In stock,Politics
+399,399,It's Only the Himalayas,45.17,2,In stock,Travel
+400,400,A Light in the Attic,51.77,3,In stock,Poetry
+401,401,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+402,402,Soumission,50.1,1,In stock,Fiction
+403,403,Sharp Objects,47.82,4,In stock,Mystery
+404,404,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+405,405,The Requiem Red,22.65,1,In stock,Young Adult
+406,406,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+407,407,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+408,408,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+409,409,The Black Maria,52.15,1,In stock,Poetry
+410,410,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+411,411,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+412,412,Set Me Free,17.46,5,In stock,Young Adult
+413,413,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+414,414,Rip it Up and Start Again,35.02,5,In stock,Music
+415,415,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+416,416,Olio,23.88,1,In stock,Poetry
+417,417,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+418,418,Libertarianism for Beginners,51.33,2,In stock,Politics
+419,419,It's Only the Himalayas,45.17,2,In stock,Travel
+420,420,A Light in the Attic,51.77,3,In stock,Poetry
+421,421,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+422,422,Soumission,50.1,1,In stock,Fiction
+423,423,Sharp Objects,47.82,4,In stock,Mystery
+424,424,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+425,425,The Requiem Red,22.65,1,In stock,Young Adult
+426,426,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+427,427,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+428,428,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+429,429,The Black Maria,52.15,1,In stock,Poetry
+430,430,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+431,431,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+432,432,Set Me Free,17.46,5,In stock,Young Adult
+433,433,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+434,434,Rip it Up and Start Again,35.02,5,In stock,Music
+435,435,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+436,436,Olio,23.88,1,In stock,Poetry
+437,437,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+438,438,Libertarianism for Beginners,51.33,2,In stock,Politics
+439,439,It's Only the Himalayas,45.17,2,In stock,Travel
+440,440,A Light in the Attic,51.77,3,In stock,Poetry
+441,441,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+442,442,Soumission,50.1,1,In stock,Fiction
+443,443,Sharp Objects,47.82,4,In stock,Mystery
+444,444,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+445,445,The Requiem Red,22.65,1,In stock,Young Adult
+446,446,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+447,447,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+448,448,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+449,449,The Black Maria,52.15,1,In stock,Poetry
+450,450,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+451,451,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+452,452,Set Me Free,17.46,5,In stock,Young Adult
+453,453,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+454,454,Rip it Up and Start Again,35.02,5,In stock,Music
+455,455,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+456,456,Olio,23.88,1,In stock,Poetry
+457,457,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+458,458,Libertarianism for Beginners,51.33,2,In stock,Politics
+459,459,It's Only the Himalayas,45.17,2,In stock,Travel
+460,460,A Light in the Attic,51.77,3,In stock,Poetry
+461,461,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+462,462,Soumission,50.1,1,In stock,Fiction
+463,463,Sharp Objects,47.82,4,In stock,Mystery
+464,464,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+465,465,The Requiem Red,22.65,1,In stock,Young Adult
+466,466,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+467,467,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+468,468,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+469,469,The Black Maria,52.15,1,In stock,Poetry
+470,470,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+471,471,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+472,472,Set Me Free,17.46,5,In stock,Young Adult
+473,473,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+474,474,Rip it Up and Start Again,35.02,5,In stock,Music
+475,475,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+476,476,Olio,23.88,1,In stock,Poetry
+477,477,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+478,478,Libertarianism for Beginners,51.33,2,In stock,Politics
+479,479,It's Only the Himalayas,45.17,2,In stock,Travel
+480,480,A Light in the Attic,51.77,3,In stock,Poetry
+481,481,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+482,482,Soumission,50.1,1,In stock,Fiction
+483,483,Sharp Objects,47.82,4,In stock,Mystery
+484,484,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+485,485,The Requiem Red,22.65,1,In stock,Young Adult
+486,486,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+487,487,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+488,488,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+489,489,The Black Maria,52.15,1,In stock,Poetry
+490,490,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+491,491,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+492,492,Set Me Free,17.46,5,In stock,Young Adult
+493,493,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+494,494,Rip it Up and Start Again,35.02,5,In stock,Music
+495,495,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+496,496,Olio,23.88,1,In stock,Poetry
+497,497,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+498,498,Libertarianism for Beginners,51.33,2,In stock,Politics
+499,499,It's Only the Himalayas,45.17,2,In stock,Travel
+500,500,A Light in the Attic,51.77,3,In stock,Poetry
+501,501,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+502,502,Soumission,50.1,1,In stock,Fiction
+503,503,Sharp Objects,47.82,4,In stock,Mystery
+504,504,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+505,505,The Requiem Red,22.65,1,In stock,Young Adult
+506,506,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+507,507,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+508,508,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+509,509,The Black Maria,52.15,1,In stock,Poetry
+510,510,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+511,511,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+512,512,Set Me Free,17.46,5,In stock,Young Adult
+513,513,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+514,514,Rip it Up and Start Again,35.02,5,In stock,Music
+515,515,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+516,516,Olio,23.88,1,In stock,Poetry
+517,517,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+518,518,Libertarianism for Beginners,51.33,2,In stock,Politics
+519,519,It's Only the Himalayas,45.17,2,In stock,Travel
+520,520,A Light in the Attic,51.77,3,In stock,Poetry
+521,521,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+522,522,Soumission,50.1,1,In stock,Fiction
+523,523,Sharp Objects,47.82,4,In stock,Mystery
+524,524,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+525,525,The Requiem Red,22.65,1,In stock,Young Adult
+526,526,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+527,527,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+528,528,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+529,529,The Black Maria,52.15,1,In stock,Poetry
+530,530,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+531,531,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+532,532,Set Me Free,17.46,5,In stock,Young Adult
+533,533,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+534,534,Rip it Up and Start Again,35.02,5,In stock,Music
+535,535,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+536,536,Olio,23.88,1,In stock,Poetry
+537,537,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+538,538,Libertarianism for Beginners,51.33,2,In stock,Politics
+539,539,It's Only the Himalayas,45.17,2,In stock,Travel
+540,540,A Light in the Attic,51.77,3,In stock,Poetry
+541,541,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+542,542,Soumission,50.1,1,In stock,Fiction
+543,543,Sharp Objects,47.82,4,In stock,Mystery
+544,544,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+545,545,The Requiem Red,22.65,1,In stock,Young Adult
+546,546,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+547,547,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+548,548,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+549,549,The Black Maria,52.15,1,In stock,Poetry
+550,550,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+551,551,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+552,552,Set Me Free,17.46,5,In stock,Young Adult
+553,553,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+554,554,Rip it Up and Start Again,35.02,5,In stock,Music
+555,555,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+556,556,Olio,23.88,1,In stock,Poetry
+557,557,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+558,558,Libertarianism for Beginners,51.33,2,In stock,Politics
+559,559,It's Only the Himalayas,45.17,2,In stock,Travel
+560,560,A Light in the Attic,51.77,3,In stock,Poetry
+561,561,Tipping the Velvet,53.74,1,In stock,Historical Fiction
+562,562,Soumission,50.1,1,In stock,Fiction
+563,563,Sharp Objects,47.82,4,In stock,Mystery
+564,564,Sapiens: A Brief History of Humankind,54.23,5,In stock,History
+565,565,The Requiem Red,22.65,1,In stock,Young Adult
+566,566,The Dirty Little Secrets of Getting Your Dream Job,33.34,4,In stock,Business
+567,567,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,3,In stock,Default
+568,568,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,4,In stock,Default
+569,569,The Black Maria,52.15,1,In stock,Poetry
+570,570,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,2,In stock,Default
+571,571,Shakespeare's Sonnets,20.66,4,In stock,Poetry
+572,572,Set Me Free,17.46,5,In stock,Young Adult
+573,573,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,5,In stock,Sequential Art
+574,574,Rip it Up and Start Again,35.02,5,In stock,Music
+575,575,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,3,In stock,Music
+576,576,Olio,23.88,1,In stock,Poetry
+577,577,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,1,In stock,Science Fiction
+578,578,Libertarianism for Beginners,51.33,2,In stock,Politics
+579,579,It's Only the Himalayas,45.17,2,In stock,Travel
